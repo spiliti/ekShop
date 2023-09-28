@@ -1,0 +1,1000 @@
+ 1178  ll
+ 1179  ll|less
+ 1180  find / -name composer
+ 1181  sudo find / -name composer
+ 1182  cd /var/www/html
+ 1183  sudo composer create-project laravel/laravel laravelapp
+ 1184  composer create-project laravel/laravel laravelapp
+ 1185  sudo composer create-project laravel/laravel laravelapp
+ 1186  sudo apt-get install php-xml
+ 1187  sudo service apache2 restart
+ 1188  sudo chown -R www-data:www-data /var/www/html/laravelapp
+ 1189  sudo chmod -R 775 /var/www/html/laravelapp/storage
+ 1190  cd laravelapp
+ 1191  php artisan
+ 1192  composer i
+ 1193  sudo composer i
+ 1194  composer update
+ 1195  php artisan migrate
+ 1196  php artisan serve
+ 1197  sudo chown -R www-data:www-data /var/www/html/laravelapp
+ 1198  sudo chmod -R 775 /var/www/html/laravelapp/storage
+ 1199  php artisan
+ 1200  cd ../ekShop
+ 1201  sudo a2enmod rewrite
+ 1202  sudo systemctl restart apache2
+ 1203  php artisan
+ 1204  composer update
+ 1205  composer install --ignore-platform-reqs
+ 1206  sudo a2enmod rewrite
+ 1207  sudo systemctl restart apache2
+ 1208  cd ..
+ 1209  mv ekShop ../
+ 1210  sudo mv ekShop ../
+ 1211  cd ../
+ 1212  ll
+ 1213  cd ekShop
+ 1214  composer install --ignore-platform-reqs
+ 1215  cd ..
+ 1216  cd ekShop
+ 1217  php artisan serve
+ 1218  ll ../html
+ 1219  cd ..
+ 1220  cp -rf ekshop ./html
+ 1221  cp -rf ./ekshop ./html
+ 1222  ll
+ 1223  cp -rf ekShop ./html
+ 1224  sudo cp -rf ekShop ./html
+ 1225  cd html
+ 1226  ll
+ 1227  mv ekShop mwaiseni
+ 1228  sudo mv ekShop mwaiseni
+ 1229  sudo apache2ctl configtest
+ 1230  curl www.mwaiseni.com
+ 1231  cd ...
+ 1232  curl www.ekshopzm.com
+ 1233  cd ..
+ 1234  curl www.ekshopzm.com
+ 1235  sudo vim ekshopzm.com.conf
+ 1236  ll
+ 1237  cd html/mwaiseni.com
+ 1238  php artisan serve
+ 1239  composer update
+ 1240  composer update --with-all-dependencies
+ 1241  sudo chown -R www-data:www-data /var/www/html/laravelapp
+ 1242  sudo chmod -R 775 /var/www/html/laravelapp/storage
+ 1243  cd
+ 1244  cd /var/www/html
+ 1245  cd lavarelapp
+ 1246  ll
+ 1247  cd laravelapp
+ 1248  php artisan
+ 1249  cd ../mwaiseni
+ 1250  cd ../mwaiseni.com
+ 1251  php artisan serve
+ 1252  php artisan cache:clear
+ 1253  sudo php artisan cache:clear
+ 1254  php artisan cache:clear
+ 1255  cd storate/framwork
+ 1256  cd storage/framwork
+ 1257  ll
+ 1258  cd storage
+ 1259  ll
+ 1260  cd framework/cache
+ 1261  ll
+ 1262  mkdir data
+ 1263  sudo mkdir data
+ 1264  ll
+ 1265  history | grep chown
+ 1266  sudo chown -R www-data:www-data /var/www/html/mwaiseni.com
+ 1267  ll
+ 1268  php artisan servexx
+ 1269  cd ../../
+ 1270  cd ..
+ 1271  php artisan serve
+ 1272  mysql -u root-p
+ 1273  mysql -u root -p
+ 1274  mysql -u root 
+ 1275  sudo service mysql stop
+ 1276  sudo mysqld_safe --skip-grant-tables &
+ 1277  sudo service mysql start
+ 1278  sudo service mysql status
+ 1279  mysql -u root
+ 1280  mysql -u root -p 'Mysql@123'
+ 1281  mysql -u root -p 
+ 1282  find --help
+ 1283  history |grep find
+ 1284  sudo find / -name my.cnf
+ 1285  cat /opt/lampp/etc/my.cnf
+ 1286  vim /opt/lampp/etc/my.cnf
+ 1287  sudo vim /opt/lampp/etc/my.cnf
+ 1288  SHOW VARIABLES LIKE 'validate_password%';
+ 1289  sudo snap install ytdownloader
+ 1290  cls
+ 1291  composer -v
+ 1292  sudo service apache2 restart
+ 1293  cls
+ 1294  cd /etc/apache2/sites-available
+ 1295  ll
+ 1296  cat 000-default.conf
+ 1297  sudo vim mwaiseni.net.conf
+ 1298  ll
+ 1299  cp 000-default.conf mwaiseni.org.conf
+ 1300  sudo cp 000-default.conf mwaiseni.org.conf
+ 1301  vim mwaiseni.net.conf
+ 1302  ll
+ 1303  vim mwaiseni.org.conf
+ 1304  sudo vim mwaiseni.org.conf
+ 1305  sudo vim 000-default.conf 
+ 1306  sudo vim mwaiseni.org.conf
+ 1307  sudo mv mwaiseni.org.conf mwaiseni.com.conf
+ 1308  ll
+ 1309  sudo a2dissite 000-default.conf
+ 1310  sudo systemctl reload apache2
+ 1311  sudo a2dissite 000-default.conf
+ 1312  sudo a2ensite www.mwaiseni.com
+ 1313  ll
+ 1314  sudo mv mwaiseni.org.conf www.mwaiseni.com.conf
+ 1315  sudo mv mwaiseni.com.conf www.mwaiseni.com.conf
+ 1316  sudo a2ensite www.mwaiseni.com
+ 1317  sudo systemctl reload apache2
+ 1318  sudo a2enmod rewrite
+ 1319  sudo systemctl reload apache2
+ 1320  ek
+ 1321  sudo vim /etc/hosts
+ 1322  cd /etc/apache2/sites-available
+ 1323  ll
+ 1324  echo "alias optl='cd /opt/lampp && cls'" >> ~/.bash_aliases
+ 1325  src
+ 1326  olp
+ 1327  cat ~/.bash_alaises
+ 1328  cat ~/.bash_aliases
+ 1329  vim ~/.bash_aliases
+ 1330  src
+ 1331  ol
+ 1332  echo "alias xamp='cd /opt/lampp && sudo ./manager-linux.run'" >> ~.bash_aliases
+ 1333  sudo echo "alias xamp='cd /opt/lampp && sudo ./manager-linux.run'" >> ~.bash_aliases
+ 1334  sudo echo "alias xamp='cd /opt/lampp && sudo ./manager-linux.run'" >> ~/.bash_aliases
+ 1335  ll
+ 1336  cd 
+ 1337  ll|less
+ 1338  xamp
+ 1339  src
+ 1340  xamp
+ 1341  ll
+ 1342  ll|less
+ 1343  find /opt/lampp -name manager-linux
+ 1344  sudo find /opt/lampp -name manager-linux
+ 1345  sudo find /opt/lampp -name manager-linux-64
+ 1346  sudo find / -name manager-linux-64
+ 1347  sudo find / -name manager-linux.run
+ 1348  sudo find / -name manager-linux-x64.run
+ 1349  cd
+ 1350  echo "alias xmp='cls && sudo /opt/lampp/lamppstart'" >> ~/.bash_aliases
+ 1351  src
+ 1352  echo "alias xstart='cls && sudo /opt/lampp/lampp start'" >> ~/.bash_aliases
+ 1353  echo "alias xstop='cls && sudo /opt/lampp/lampp stop'" >> ~/.bash_aliases
+ 1354  src
+ 1355  vim ./.bash_aliases
+ 1356  src
+ 1357  xstop
+ 1358  xstart
+ 1359  xstop
+ 1360  ll
+ 1361  cd Downloads
+ 1362  ll
+ 1363  cd
+ 1364  ll www
+ 1365  ll apps
+ 1366  chmod 755 apps/xampp-linux-*-installer.run
+ 1367  ll apps
+ 1368  sudo ./apps/xampp-linux-*-installer.run
+ 1369  sudo systemctl restart apache2
+ 1370  sudo systemctl status apache2.service
+ 1371  cd /etc/apache2
+ 1372  apache2ctl configtest
+ 1373  sudo vim ./sites-enabled/mwaiseni.com.conf
+ 1374  sudo vim ./sites-enabled/www.mwaiseni.com.conf
+ 1375  apache2ctl configtest
+ 1376  sudo vim ./sites-enabled/www.mwaiseni.com.conf
+ 1377  apache2ctl configtest
+ 1378  sudo ./apps/xampp-linux-*-installer.run
+ 1379  cls
+ 1380  xstart
+ 1381  mysql
+ 1382  mysql -u shuller
+ 1383  mysql -u shuller -p
+ 1384  mysql -u root -p
+ 1385  cd
+ 1386  cls
+ 1387  sudo service apache2 restart
+ 1388  journalctl -xeu apache2.service
+ 1389  sudo service apache2 status
+ 1390  sudo service apache2 stop
+ 1391  sudo service apache2 status
+ 1392  sudo service apache2 start
+ 1393  ss -nlpt
+ 1394  kill -9 10172
+ 1395  ss -nlpt
+ 1396  killport -h
+ 1397  cls
+ 1398  ek
+ 1399  mysql -u root  -p
+ 1400  mysql 
+ 1401  mysql -u root -p
+ 1402  hostname -I
+ 1403  cls
+ 1404  ll
+ 1405  scd ..
+ 1406  cd ../..
+ 1407  ll
+ 1408  uninstall
+ 1409  cd
+ 1410  sudo /opt/lampp/uninstall
+ 1411  ll /opt
+ 1412  cls
+ 1413  sudo systemctl status apache2.service -l --no-pager
+ 1414  sudo vim /etc/hosts
+ 1415  sudo vim /etc/apache2/apache2.conf
+ 1416  cd /etc/apache2/apache2.conf
+ 1417  cd /etc/apache2/
+ 1418  cls
+ 1419  sudo apachectl configtest
+ 1420  sudo systemctl reload apache2.service
+ 1421  sudo systemctl status apache2.service -l --no-pager
+ 1422  cd /var/www
+ 1423  ll
+ 1424  sudo mv ekShop ekshopzm.com
+ 1425  ll
+ 1426  ll ./html
+ 1427  cd html
+ 1428  sudo mv mwaiseni mwaiseni.com
+ 1429  ll
+ 1430  cls
+ 1431  cd ...
+ 1432  cd ..
+ 1433  sudo chown -R $USER:$USER /var/www/ekshopzm.com
+ 1434  sudo chown -R $USER:$USER /var/www/html/mwaiseni.com
+ 1435  sudo chmod -R 755 /var/www/ekshopzm.com
+ 1436  sudo chmod -R 755 /var/www/html/mwaiseni.com
+ 1437  cd
+ 1438  mysql -u laravel -p
+ 1439  cls
+ 1440  php --version
+ 1441  ll /usr/
+ 1442  ll /usr/local
+ 1443  ll /usr/local/bin
+ 1444  composer --version
+ 1445  curl -sS https://getcomposer.org/installer | php
+ 1446  sudo mv composer.phar /usr/local/bin/composer
+ 1447  sudo chmod +x /usr/local/bin/composer
+ 1448  composer --version
+ 1449  composer self-update
+ 1450  composer --help
+ 1451  composer list
+ 1452  composer update
+ 1453  sudo apt-get install php php-cli php-mbstring git unzip
+ 1454  cls
+ 1455  composer --version
+ 1456  composer global require laravel/installer
+ 1457  composer update
+ 1458  sudo composer self-update
+ 1459  composer -version
+ 1460  composer --version
+ 1461  cd /var/www/html/mwaiseni.com
+ 1462  cd vendor/laravel
+ 1463  ll
+ 1464  cd framework
+ 1465  ll
+ 1466  cd src/Illuminate
+ 1467  ll
+ 1468  cd Filesystem
+ 1469  ll
+ 1470  cd ../../../../
+ 1471  cd ../..
+ 1472  cd storage
+ 1473  cd frameworks/views
+ 1474  ll
+ 1475  cd framework/views
+ 1476  ll
+ 1477  php artisan config:clear
+ 1478  sudo php artisan config:clear
+ 1479  cd ..
+ 1480  sudo php artisan config:clear
+ 1481  sudo php artisan config:cache
+ 1482  php artisan config:cache
+ 1483  cd storage/logs
+ 1484  ll
+ 1485  cd ..
+ 1486  cd storage/logs
+ 1487  php artisan config:cache
+ 1488  cd ..
+ 1489  php artisan config:cache
+ 1490  cd ..
+ 1491  chown -R www-data:www-data mwaiseni.com
+ 1492  sudo chown -R www-data:www-data mwaiseni.com
+ 1493  chmod -R 777 /var/www/laravel-api/storage/logs
+ 1494  chmod -R 777 /var/www/mwaiseni.com/storage/logs
+ 1495  sudo chmod -R 777 /var/www/mwaiseni.com/storage/logs
+ 1496  cd mwaiseni.com/storage
+ 1497  ll
+ 1498  sudo chmod -R 777 /var/www/mwaiseni.com/storage/logs
+ 1499  cd logs
+ 1500  sudo chmod -R 777 /var/www/html/mwaiseni.com/storage/logs
+ 1501  sudo chmod -R 777 /var/www/html/mwaiseni.com/storage/framework/sessions
+ 1502  sudo chmod -R 777 /var/www/html/mwaiseni.com/storage/framework/views
+ 1503  cd ../..
+ 1504  cls
+ 1505  php artisan serve
+ 1506  sudo a2ensite mwaiseni.com
+ 1507  sudo a2enmod rewrite
+ 1508  echo "alias ra2='sudo systemctl restart apache2'" >>~/.bash_aliases
+ 1509  src
+ 1510  ra2
+ 1511  src
+ 1512  ra2
+ 1513  cd sites-available
+ 1514  sudo a2ensite ekshopzm.conf
+ 1515  sudo a2ensite ekshopzm.com.conf
+ 1516  cd ../../
+ 1517  cd php/
+ 1518  ll
+ 1519  cd 8.1
+ 1520  ll
+ 1521  cd apache2
+ 1522  ll
+ 1523  cd /etc/apache2/sites-available
+ 1524  sudo vim www.ekshop.com
+ 1525  ll
+ 1526  sudo vim www.ekshopzm.com
+ 1527  sudo vim ekshopzm.com
+ 1528  sudo vim ekshopzm.com.conf
+ 1529  sudo a2dissite 00-default.conf
+ 1530  sudo a2dissite 000-default.conf
+ 1531  sudo a2ensite ekshopzm.com
+ 1532  sudo a2enmod rewrite
+ 1533  sudo systemctl restart apache2
+ 1534  ll
+ 1535  cp ekshopzm.com.conf ekShopzm.com.conf
+ 1536  ll
+ 1537  sudo cp ekshopzm.com.conf ekShopzm.com.conf
+ 1538  ll
+ 1539  whereis php.ini
+ 1540  whereis php
+ 1541  ll /etc/php/*.ini
+ 1542  ll /usr/bin/php/*.ini
+ 1543  ll /usr/bin/php
+ 1544  ll /usr/lib/php
+ 1545  ll /usr/lib/php/8.1
+ 1546  whereis php
+ 1547  ll /usr/share/php
+ 1548  cd
+ 1549  mysq -u root 
+ 1550  mysql -u root 
+ 1551  mysql -u root
+ 1552  sudo systemctl status mysql
+ 1553  sudo systemctl stop mysql
+ 1554  sudo systemctl status mysql
+ 1555  cls
+ 1556  sudo systemctl status mysql
+ 1557  sudo systemctl start mysql
+ 1558  sudo systemctl status mysql
+ 1559  exit
+ 1560  cd /var/wwww/html
+ 1561  cd /var/www/html
+ 1562  cls
+ 1563  git clone https://github.com/a2i-dpg/ekShop.git
+ 1564  sudo git clone https://github.com/a2i-dpg/ekShop.git
+ 1565  sudo git clone https://github.com/spiliti/ekShop.git
+ 1566  ll
+ 1567  cd ekShop
+ 1568  cls
+ 1569  sudo chmod -R 777 /var/www/html/mwaiseni.com/storage/logs
+ 1570  cls
+ 1571  sudo vim /etc/hosts
+ 1572  cd ..
+ 1573  ll
+ 1574  cd ekshopzm.com
+ 1575  sudo chmod -R 777 /var/www/ekshopzm.com/storage/logs
+ 1576  cd  ..
+ 1577  mv --help
+ 1578  sudo mv ekshopzm.com ./html/
+ 1579  ll
+ 1580  cd html
+ 1581  ll
+ 1582  sudo systemctl status mysql
+ 1583  sudo systemctl stop mysql
+ 1584  exit
+ 1585  ll
+ 1586  cd lamp
+ 1587  cd /opt/lamp
+ 1588  cd /opt/lampp
+ 1589  ll
+ 1590  cd var
+ 1591  ll
+ 1592  ll /var/www
+ 1593  php -v
+ 1594  mysql -v
+ 1595  mysql -u shuler
+ 1596  mysql -u shuller
+ 1597  mysql -u shuller -p
+ 1598  mysql -u root -p
+ 1599  ssh shuller@41.63.0.132
+ 1600  ssh -v
+ 1601  ssh shuller@41.63.0.133
+ 1602  cls
+ 1603  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+ 1604  php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a611085589f1f3ddf8b3c52d662cd01d4ba75c0ee0459970c2200a51f492d557530c71c15d8dba01eae') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+ 1605  php composer-setup.php
+ 1606  php -r "unlink('composer-setup.php');"
+ 1607  sudo mv composer.phar /usr/local/bin/composer
+ 1608  composer -v
+ 1609  compoer -v
+ 1610  composer -v
+ 1611  composer --version
+ 1612  cls
+ 1613  sudo systemctl restart apache2
+ 1614  cd ..
+ 1615  rm -rf lampp
+ 1616  sudo rm -rf lampp
+ 1617  ll
+ 1618  cls
+ 1619  ssh shuller@41.63.0.132
+ 1620  sudo systemctl status mysql
+ 1621  cls
+ 1622  cd
+ 1623  cls
+ 1624  mysql -u root -p
+ 1625  service mysql stop
+ 1626  mysql_safe --skip-grant-tables &
+ 1627  mysqld_safe --skip-grant-tables &
+ 1628  sudo mysqld_safe --skip-grant-tables &
+ 1629  sudo systemctl status mysql
+ 1630  cls
+ 1631  sudo mysqld_safe --skip-grant-tables
+ 1632  mkdir -p /var/run/mysqld
+ 1633  chown mysql:mysql /var/run/mysqld
+ 1634  sudo mkdir -p /var/run/mysqld
+ 1635  chown mysql:mysql /var/run/mysqld
+ 1636  sudo chown mysql:mysql /var/run/mysqld
+ 1637  cls
+ 1638  sudo mysqld_safe --skip-grant-tables
+ 1639  vim keywords
+ 1640  cd /var/www/html/ekshop
+ 1641  cd /var/www/html/ekShop
+ 1642  cls
+ 1643  cp .env.example .env
+ 1644  sudo chmod -R 777 /var/www/html/mwfdfdaiseni.com/storage/logs
+ 1645  cd ../..
+ 1646  cd html
+ 1647  sudo chmod -R 777 /var/www/html/ekShop
+ 1648  cp .env.example .env
+ 1649  cd ekShop
+ 1650  cp .env.example .env
+ 1651  composer install
+ 1652  computer install --help
+ 1653  composer install --help
+ 1654  composer install  --ignore-platform-reqs
+ 1655  cls
+ 1656  php artisan storage:link
+ 1657  php artisan key:generate
+ 1658  php artisan passport:install --force
+ 1659  composer update
+ 1660  composer update --with-all-dependencies
+ 1661  composer install --ignore-platform-reqs
+ 1662  php artisan passport:install --force
+ 1663  composer install --ignore-platform-reqs
+ 1664  cls
+ 1665  cd ../ekshopzm.com
+ 1666  cls
+ 1667  php artisan passport:install --force
+ 1668  php artisan storage:link
+ 1669  cd ..
+ 1670  sudo chmod -R 777 /var/www/html/ekShopzm.com
+ 1671  sudo chmod -R 777 /var/www/html/ekshopzm.com
+ 1672  php artisan storage:link
+ 1673  composer install
+ 1674  cd ekshopzm.com
+ 1675  php artisan storage:link
+ 1676  php artisan key:generate
+ 1677  php artisan passport:install --force
+ 1678  cls
+ 1679  php artisan passport:install --force
+ 1680  ll /etc/
+ 1681  ll /etc/m*
+ 1682  ll/etc/alernatives
+ 1683  ll/etc/alternatives
+ 1684  ll /etc/alternatives
+ 1685  ll /etc/mysql
+ 1686  ls /etc/mysql/my
+ 1687  sudo vim /etc/mysql/my.cnf
+ 1688  sudo vim /etc/mysql/mysql.cnf
+ 1689  cls
+ 1690  sudo apache2ctl configtest
+ 1691  sudo systemctl restart apache2
+ 1692  php artisan storage:link
+ 1693  php artisan passport:install --force
+ 1694  php artisan cache:clear
+ 1695  php artisan passport:install --force
+ 1696  php artisan cache:clear
+ 1697  sudo systemctl restart apache2
+ 1698  cls
+ 1699  php artisan cache:clear
+ 1700  php artisan passport:install --force
+ 1701  cls
+ 1702  sudo systemctl restart mysql
+ 1703  sudo systemctl status mysql
+ 1704  sudo systemctl start mysql
+ 1705  cls
+ 1706  cd /etc/apache2
+ 1707  ll
+ 1708  cd sites-available
+ 1709  ll
+ 1710  cls
+ 1711  vim ekshopzm.com
+ 1712  ll
+ 1713  sudo vim ekshopzm.com.conf
+ 1714  ll
+ 1715  sudo cp ekShopzm.com.conf ekShop.com.conf1
+ 1716  cls
+ 1717  mysql -v
+ 1718  mysql --version
+ 1719  cd /etc
+ 1720  sudo vim my.cnf
+ 1721  ll
+ 1722  cd mysql
+ 1723  ll
+ 1724  cat my.cnf
+ 1725  ll conf.d
+ 1726  ll 
+ 1727  cay my.cnf
+ 1728  catmy.cnf
+ 1729  cat my.cnf
+ 1730  ll conf.d
+ 1731  cat conf.d/mysql.cnf
+ 1732  cd
+ 1733  cls
+ 1734  mysql -u root
+ 1735  cls
+ 1736  sudo systemctl stop mysql 
+ 1737  cls
+ 1738  mysql
+ 1739  sudo systemctl stop mysql 
+ 1740  mysql
+ 1741  cls
+ 1742  ll
+ 1743  ll|less
+ 1744  cd public
+ 1745  cd Public
+ 1746  ll
+ 1747  touch mysql_passwd_configs
+ 1748  vim mysql_pwd_config
+ 1749  cls
+ 1750  cd /etc/mysql
+ 1751  ll
+ 1752  vim access.txt
+ 1753  sudo vim access.txt
+ 1754  cd ..
+ 1755  sudo vim php_cmds.txt
+ 1756  cd /etc/httpd/conf/httpd.conf
+ 1757  cd /etc/httpd/conff
+ 1758  cd /etc/httpd/conf
+ 1759  cd /etc/httpd
+ 1760  cd /etc/apache2
+ 1761  ll
+ 1762  cd
+ 1763  sudo apt-get install apache2
+ 1764  sudo systemctl stop apache2
+ 1765  sudo systemctl start apache2
+ 1766  cls
+ 1767  sudo systemctl status apache2
+ 1768  cls
+ 1769  history |grep ps
+ 1770  history |grep ps 
+ 1771  cls
+ 1772  tail -f /var/log/mysql/error.log
+ 1773  cdmysqld.conf.d
+ 1774  cd mysqld.conf.d
+ 1775  cd mysql.conf.d
+ 1776  ll
+ 1777  cat mysql.cnf
+ 1778  ll
+ 1779  cat mysqld.cnf
+ 1780  mysql --version
+ 1781  cd
+ 1782  cls
+ 1783  ll /usr/local/etc/
+ 1784  cls
+ 1785  sudo journalctl -xeu mysql.service
+ 1786  cls
+ 1787  sudo systemctl start mysql
+ 1788  sudo systemctl stop mysql
+ 1789  cls
+ 1790  history |grep purge
+ 1791  sudo pkill -f mysql_secure_installation
+ 1792  sudo mysql
+ 1793  cls
+ 1794  sudo apt install mysql-client mysql-server
+ 1795  cls
+ 1796  history | grep kill
+ 1797  sudo pkill -f mysql_secure_installation
+ 1798  sudo systemctl status mysql
+ 1799  cls
+ 1800  sudo mysql
+ 1801  cls
+ 1802  cd
+ 1803  sudo systemctl status mysql
+ 1804  sudo mysql -u root
+ 1805  sudo systemctl start mysql
+ 1806  sudo mysql
+ 1807  sudo systemctl stop mysql
+ 1808  ssh shuller@41.63.0.132
+ 1809  cd /var/www/html
+ 1810  cd ekshop.com
+ 1811  cd ekshopzm.com
+ 1812  cd ..
+ 1813  ll
+ 1814  cd ekshopzm.com
+ 1815  cls
+ 1816  sudo a2enmod rewrite
+ 1817  sudo systemctl restart apache2
+ 1818  cls
+ 1819  sudo a2enmod rewrite
+ 1820  sudo systemctl restart apache2
+ 1821  php artisan storage:link
+ 1822  php artisan config:cache 
+ 1823  php artisan key:generate
+ 1824  php artisan storage:link
+ 1825  php artisan key:generate
+ 1826  php artisan passport:install --force
+ 1827  php artisan route:cache
+ 1828  php artisan route:clear
+ 1829  php artisan config:cache
+ 1830  php artisan config:clear
+ 1831  php artisan optimize
+ 1832  php artisan passport:install --force
+ 1833  cls
+ 1834  sudo systemctl restart apache2
+ 1835  php artisan passport:install --force
+ 1836  cls
+ 1837  sudo systemctl restart apache2
+ 1838  php artisan passport:install --force
+ 1839  php artisan route:cache
+ 1840  php artisan route:clear
+ 1841  php artisan config:cache
+ 1842  php artisan config:clear
+ 1843  php artisan optimize
+ 1844  cls
+ 1845  php artisan optimize
+ 1846  php artisan config:cache
+ 1847  php artisan passport:install --force
+ 1848  php artisan config:cache
+ 1849  php artisan migrate
+ 1850  cls
+ 1851  php artisan migrate
+ 1852  php artisan migrate:fresh --seed
+ 1853  php artisan tinker
+ 1854  php artisan config:cache
+ 1855  sudo systemctl restart mysql
+ 1856  sudo systemctl restart apache2
+ 1857  php artisan config:cache
+ 1858  cls
+ 1859  cd ..
+ 1860  mv eeekshopzm.com ../
+ 1861  mv ekshopzm.com ../
+ 1862  sudo mv ekshopzm.com ../
+ 1863  cd ..
+ 1864  ll
+ 1865  cd ekshopzm.com
+ 1866  cls
+ 1867  php artisan config:cache
+ 1868  sudo systemctl restart apache2
+ 1869  sudo apache2ctl configtest
+ 1870  vim /etc/hosts
+ 1871  sudo vim /etc/hosts
+ 1872  cd ..
+ 1873  mv ekshopzm.com ekshop.zm
+ 1874  sudo mv ekshopzm.com ekshop.zm
+ 1875  cls
+ 1876  ll
+ 1877  sudo chown -R $USER:$USER /var/www/ekshop.zm
+ 1878  sudo chmod -R 755 /var/www
+ 1879  sudo apache2ctl configtest
+ 1880  php artisan config:cache
+ 1881  php artisan config:clear
+ 1882  cd ekshop.zm
+ 1883  php artisan config:clear
+ 1884  php artisan config:cache
+ 1885  cls
+ 1886  sudo a2enmod rewrite
+ 1887  cls
+ 1888  ll
+ 1889  cd storage
+ 1890  ll
+ 1891  cd framework
+ 1892  ll
+ 1893  ll views
+ 1894  ll cache
+ 1895  ll 
+ 1896  ll cache
+ 1897  cd  data
+ 1898  ll cache/data
+ 1899  sudo chgrp -R www-data storage bootstrap/cache
+ 1900  cd ../../
+ 1901  sudo chgrp -R www-data storage bootstrap/cache
+ 1902  sudo chmod -R ug+rwx storage bootstrap/cache
+ 1903  sudo chown www-data:www-data -R /var/www/ekshop.zm/html/subdirectory/bootstrap/cache
+ 1904  sudo chown www-data:www-data -R /var/www/ekshop.zm/bootstrap/cache
+ 1905  sudo systemctl reload apache2
+ 1906  php artisan passport:install --force
+ 1907  sudo systemctl reload apache2
+ 1908  cls
+ 1909  mysql --version
+ 1910  composer install
+ 1911  composer update
+ 1912  composer update -W
+ 1913  composer update -with-all-dependencies
+ 1914  composer update --with-all-dependencies
+ 1915  composer require laracon21/timezones
+ 1916  composer install --ignore-platform-reqs
+ 1917  composer update --ignore-platform-reqs
+ 1918  history| bootstrap
+ 1919  history| cache
+ 1920  history| grep cache
+ 1921  sudo chgrp -R www-data storage bootstrap/cache
+ 1922  sudo chown www-data:www-data -R /var/www/ekshop.zm/bootstrap/cache
+ 1923  history| grep chown
+ 1924  sudo cown -R www-data:www-data /var/www/ekshop.zm
+ 1925  sudo chown -R www-data:www-data /var/www/ekshop.zm
+ 1926  history| grep ch
+ 1927  sudo chgrp -R www-data storage bootstrap/cache
+ 1928  sudo chmod -R ug+rwx storage bootstrap/cache
+ 1929  sudo systemctl reload apache2
+ 1930  history | grep opt
+ 1931  php artisan optimize
+ 1932  ls /var/www/ekshop.zm/storage/logs
+ 1933  ll /var/www/ekshop.zm/storage/logs
+ 1934  sudo chown -R $USER:www-data storage
+ 1935  sudo chown -R $USER:www-data bootstrap/cache
+ 1936  chmod -R 775 storage && chmod -R 775 bootstrap/cache
+ 1937  ps aux | egrep '(apache|httpd)'
+ 1938  history | grep opt
+ 1939  php artisan optimize
+ 1940  history | grep cache
+ 1941  cd ..
+ 1942  cls
+ 1943  ll
+ 1944  mv ekShop ekshop
+ 1945  sudo mv ekShop ekshop
+ 1946  cls
+ 1947  cd html
+ 1948  ll
+ 1949  sudo rm -rf ekshop:
+ 1950  sudo rm -rf mwaiseni.com
+ 1951  ll
+ 1952  sudo rm -rf ekShop
+ 1953  cls
+ 1954  ll
+ 1955  cls
+ 1956  cd ../ekshop
+ 1957  sudo cp .env.example .env
+ 1958  sudo apache2ctl configtest
+ 1959  sudo systemctl restart apache2
+ 1960  sudo apache2ctl configtest
+ 1961  cls
+ 1962  cd /etc/apache2
+ 1963  ll
+ 1964  cd sites-available
+ 1965  cls
+ 1966  ll
+ 1967  rm ekShopzm.com.conf
+ 1968  sudo rm ekShopzm.com.conf
+ 1969  cls
+ 1970  ll
+ 1971  sudo vim ekshopzm.com
+ 1972  sudo vim ekshopzm.com.conf
+ 1973  sudo vim ekshopzm.com
+ 1974  sudo vim ekshopzm.com.conf
+ 1975  sudo cp ekshopzm.com.conf ekshop.zm.conf
+ 1976  sudo vim ekshop.zm.conf
+ 1977  cd ...
+ 1978  sudo vim ekshop.zm.conf
+ 1979  sudo a2ensite ekshop.zm.conf
+ 1980  sudo systemctl reload apache2
+ 1981  sudo vim ekshop.zm.conf
+ 1982  sudo passwd root
+ 1983  su -
+ 1984  sudo systemctl status mysql
+ 1985  cls
+ 1986  mysql
+ 1987  mysql -u root
+ 1988  mysql -u root -p
+ 1989  sudo systemctl restart mysql
+ 1990  cls
+ 1991  sudo systemctl restart mysql
+ 1992  sudo systemctl status mysql
+ 1993  sudo systemctl restart mysql
+ 1994  mysql -u root
+ 1995  mysql -u root -p
+ 1996  mysql -u root
+ 1997  mysql -u root -p
+ 1998  cd /etc/mysql/mysqld.conf.d
+ 1999  cd /etc/mysql/
+ 2000  ll
+ 2001  cd mysql.conf.d
+ 2002  ll
+ 2003  sudo vim mysqld.cnf
+ 2004  cls
+ 2005  cd
+ 2006  history |grep purge
+ 2007  sudo apt-get remove --purge mysql*
+ 2008  sudo apt-get autoremove
+ 2009  sudo apt-get autoclean
+ 2010  cls
+ 2011  sudo apt-get dist-upgrade
+ 2012  cls
+ 2013  composer -v
+ 2014  cls
+ 2015  composer --version
+ 2016  cls
+ 2017  sudo apt update
+ 2018  sudo apt upgrade
+ 2019  cls
+ 2020  sudo apt-get install mysql-server
+ 2021  cls
+ 2022  sudo systemctl status mysql
+ 2023  sudo apt-get update
+ 2024  sudo apt upgrade
+ 2025  sudo mysql
+ 2026  sudo mysql -u root -p
+ 2027  sudo /etc/init.d/mysql stop
+ 2028  sudo systemctl status mysql
+ 2029  sudo mysqld_safe --skip-grant-tables &
+ 2030  cls
+ 2031  echo "aliase mysqlstatus='sudo systemctl status mysql'" >> .bash_aliases
+ 2032  src
+ 2033  echo "alias mysqlstatus='sudo systemctl status mysql'" >> .bash_aliases
+ 2034  echo "alias mysqlstart='sudo systemctl start mysql && cls'" >> .bash_aliases
+ 2035  echo "alias mysqlstop='sudo systemctl stop mysql && cls'" >> .bash_aliases
+ 2036  vim .bash_aliases
+ 2037  src
+ 2038  mysqlstart
+ 2039  mysqlstatus
+ 2040  sudo mysql -u root
+ 2041  sudo mysql -u root -p
+ 2042  mysql -u root -p
+ 2043  cd /var/www
+ 2044  cls
+ 2045  cd ekshop
+ 2046  sudo apache2 configtest
+ 2047  sudo service apache status
+ 2048  sudo service apache start
+ 2049  sudo systemctl status apache2
+ 2050  sudo systemctl restart apache2
+ 2051  composer -v
+ 2052  mysqlstart
+ 2053  cd ..
+ 2054  mv ekshop ekshop.zm
+ 2055  sudo mv ekshop ekshop.zm
+ 2056  ll
+ 2057  cd ekshop.zm
+ 2058  php artisan storage:link
+ 2059  composer install
+ 2060  composer require laracon21/colorcodeconverter
+ 2061  composer require laravel/passport
+ 2062  sudo composer require laracon21/colorcodeconverter
+ 2063  php artisan migrate
+ 2064  cls
+ 2065  composer update
+ 2066  composer install --ignore-platform-reqs
+ 2067  sudo touch composer.lock
+ 2068  sudo chown -R $USER ./composer.lock
+ 2069  composer update
+ 2070  ll
+ 2071  cd ..
+ 2072  sudo chown -R www-data.www-data /var/www/ekshop.zm
+ 2073  sudo chmod -R 755 /var/www/ekshop.zm
+ 2074  sudo chmod -R 777 /var/www/ekshop.zm/storage
+ 2075  echo $USER
+ 2076  sudo usermod $USER -g www-data
+ 2077  composer update
+ 2078  cd ekshop
+ 2079  composer update
+ 2080  cd ekshop.zm
+ 2081  composer update
+ 2082  composer install --ignore-platform-reqs
+ 2083  composer require goaop/goaop-laravel-bridge
+ 2084  ./composer.json is not writable.
+ 2085  ls -lh ~/.composer/composer.json
+ 2086  ls -lh ~/.composer.json
+ 2087  ls -lh composer.json
+ 2088  sudo chown -R shuller:shuller composer.json
+ 2089  composer install --ignore-platform-reqs
+ 2090  cd ..
+ 2091  rm -rf -ekshop.zm
+ 2092  rm -rf ekshop.zm
+ 2093  sudo rm -rf ekshop.zm
+ 2094  ll
+ 2095  cd html
+ 2096  ll
+ 2097  ll vendor
+ 2098  sudo systemctl restart apahe2
+ 2099  sudo systemctl start apache2
+ 2100  git clone https://github.com/spiliti/ekShop.git
+ 2101  ls
+ 2102  ll
+ 2103  history \grep mod
+ 2104  history |grep mod
+ 2105  sudo chmod -R 755 /var/www/html
+ 2106  git clone https://github.com/spiliti/ekShop.git
+ 2107  ll
+ 2108  sudo chmown -R 755 /var/www/html
+ 2109  history |grep chown
+ 2110  sudo chown -R www-data:www-data /var/www/html
+ 2111  git clone https://github.com/spiliti/ekShop.git
+ 2112  ll
+ 2113  history |grep 775
+ 2114  sudo chmod -R 775 /var/www/html
+ 2115  ll
+ 2116  git clone https://github.com/spiliti/ekShop.git
+ 2117  cd  ..
+ 2118  sudo chmod -R 775 /var/www/html
+ 2119  ll html
+ 2120  cd htlm
+ 2121  git clone https://github.com/spiliti/ekShop.git
+ 2122  sudo chmod -R 777 /var/www/html
+ 2123  ll html
+ 2124  cd html
+ 2125  git clone https://github.com/spiliti/ekShop.git
+ 2126  ll
+ 2127  mv ekShop ekshop.zm
+ 2128  cd ekshopzm
+ 2129  cd ekshop.zm
+ 2130  sudo cp .env.example .env
+ 2131  cls
+ 2132  history |grep storage
+ 2133  sudo chgrp -R www-data storage bootstrap/cache
+ 2134  sudo chmod -R ug+rwx storage bootstrap/cache
+ 2135  sudo chown -R $USER:www-data storage
+ 2136  chmod -R 775 storage && chmod -R 775 bootstrap/cache
+ 2137  sudo chmod -R  777 /var/wwww/html/ekshop.zm/storage
+ 2138  ll
+ 2139  sudo chmod -R  777 /var/wwww/html/ekshop.zm/storage
+ 2140  cls
+ 2141  ll
+ 2142  cd storage
+ 2143  cd ..
+ 2144  sudo chmod -R  777 /var/www/html/ekshop.zm/storage
+ 2145  cls
+ 2146  sudo systemcctl restart apache2
+ 2147  sudo systemctl restart apache2
+ 2148  cls
+ 2149  composer install
+ 2150  php artisan cache:clear
+ 2151  composer update
+ 2152  composer install --ignore-platform-reqs
+ 2153  cls
+ 2154  php artisankey:generate
+ 2155  php artisan key:generate
+ 2156  php artisan cache:clear 
+ 2157  chmod -R 775 storage/
+ 2158  composer dump-autoload
+ 2159  php artisan cache:clear 
+ 2160  ll storage
+ 2161  ll storage/framework/cache
+ 2162  cd storage/framework/cache
+ 2163  mkdir data
+ 2164  cd ../../
+ 2165  cd ..
+ 2166  php artisan cache:clear 
+ 2167  chmod -R 775 storage/
+ 2168  php artisan storage:link
+ 2169  ll
+ 2170  history |grep ch
+ 2171  sudo chmod -R 755 /var/www/html
+ 2172  sudo chmod -R 777 /var/www/html
+ 2173  php artisan cache:clear 
+ 2174  php artisan key:generate
+ 2175  php artisan passport:install
+ 2176  sudo systemctl restart apache2
+ 2177  history >> ekshop.hist
